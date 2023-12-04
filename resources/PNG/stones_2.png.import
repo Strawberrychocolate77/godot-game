@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bscmcpnwbba87"
+=======
+uid="uid://bv8ghvf5gy4ay"
+>>>>>>> 43eaef4 (added arrow script)
 path="res://.godot/imported/stones_2.png-93ddb968b97dcdebd9963625f051b28e.ctex"
 metadata={
 "vram_texture": false

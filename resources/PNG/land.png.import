@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://ds8wkm248mits"
+=======
+uid="uid://cxpkns0cdtgra"
+>>>>>>> 43eaef4 (added arrow script)
 path="res://.godot/imported/land.png-90d1d490e94f77454bfedbd09149b3b0.ctex"
 metadata={
 "vram_texture": false
