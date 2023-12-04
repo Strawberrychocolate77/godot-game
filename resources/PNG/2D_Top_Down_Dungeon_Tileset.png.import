@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://ck07clrlw506k"
+=======
+uid="uid://doxy20roah7xg"
+>>>>>>> 43eaef4 (added arrow script)
 path="res://.godot/imported/2D_Top_Down_Dungeon_Tileset.png-be137e747d882ed754689eadd66d8187.ctex"
 metadata={
 "vram_texture": false

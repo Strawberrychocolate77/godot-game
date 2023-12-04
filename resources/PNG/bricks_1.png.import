@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dumfi35w8m1lm"
+=======
+uid="uid://bpe6ynhx3wwgg"
+>>>>>>> 43eaef4 (added arrow script)
 path="res://.godot/imported/bricks_1.png-53615aeccbae152e10c212a98a3b3b87.ctex"
 metadata={
 "vram_texture": false
