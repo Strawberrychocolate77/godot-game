@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chdbgl8bgtd4h"
-path="res://.godot/imported/U_death.png-143525592c67059d7d30c54319f35af9.ctex"
+path="res://.godot/imported/U_death.png-673c7f5b86026cce85b96489a038c18a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/sprite_undead_enemies/2/U_death.png"
-dest_files=["res://.godot/imported/U_death.png-143525592c67059d7d30c54319f35af9.ctex"]
+source_file="res://resources/sprites/sprite_undead_enemies/2/U_death.png"
+dest_files=["res://.godot/imported/U_death.png-673c7f5b86026cce85b96489a038c18a.ctex"]
 
 [params]
 

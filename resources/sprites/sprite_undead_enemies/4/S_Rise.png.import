@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dci4beiscftpc"
-path="res://.godot/imported/S_Rise.png-71d1b0566011306c528d73138a8a5255.ctex"
+path="res://.godot/imported/S_Rise.png-cc769b3f7c3f36fdbbed0a50d3ebb472.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/sprite_undead_enemies/4/S_Rise.png"
-dest_files=["res://.godot/imported/S_Rise.png-71d1b0566011306c528d73138a8a5255.ctex"]
+source_file="res://resources/sprites/sprite_undead_enemies/4/S_Rise.png"
+dest_files=["res://.godot/imported/S_Rise.png-cc769b3f7c3f36fdbbed0a50d3ebb472.ctex"]
 
 [params]
 

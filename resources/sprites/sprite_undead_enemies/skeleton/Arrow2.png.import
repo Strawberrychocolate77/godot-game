@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://coyfaf588ptkw"
-path="res://.godot/imported/Arrow2.png-ebc718002dd1024fb69b69db6655ddc0.ctex"
+path="res://.godot/imported/Arrow2.png-025c11c1c71b61989ae4ebe8ebc3c07d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/sprite_undead_enemies/skeleton/Arrow2.png"
-dest_files=["res://.godot/imported/Arrow2.png-ebc718002dd1024fb69b69db6655ddc0.ctex"]
+source_file="res://resources/sprites/sprite_undead_enemies/skeleton/Arrow2.png"
+dest_files=["res://.godot/imported/Arrow2.png-025c11c1c71b61989ae4ebe8ebc3c07d.ctex"]
 
 [params]
 

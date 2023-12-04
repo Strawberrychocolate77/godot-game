@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs7ylwee5sm7f"
-path="res://.godot/imported/D_Rise.png-116f8da201ed0d594c0ba6627b3f3ada.ctex"
+path="res://.godot/imported/D_Rise.png-528c966dae0c0cdde6ce79894d77c4c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/sprite_undead_enemies/4/D_Rise.png"
-dest_files=["res://.godot/imported/D_Rise.png-116f8da201ed0d594c0ba6627b3f3ada.ctex"]
+source_file="res://resources/sprites/sprite_undead_enemies/4/D_Rise.png"
+dest_files=["res://.godot/imported/D_Rise.png-528c966dae0c0cdde6ce79894d77c4c0.ctex"]
 
 [params]
 

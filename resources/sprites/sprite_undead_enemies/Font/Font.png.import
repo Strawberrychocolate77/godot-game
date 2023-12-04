@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dk22p5ke6dapn"
-path="res://.godot/imported/Font.png-a6ee0a60d9dae871fc6e622935f96cf7.ctex"
+path="res://.godot/imported/Font.png-e8c81b0e3eea6e6deb506fc313fa1dab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/sprite_undead_enemies/Font/Font.png"
-dest_files=["res://.godot/imported/Font.png-a6ee0a60d9dae871fc6e622935f96cf7.ctex"]
+source_file="res://resources/sprites/sprite_undead_enemies/Font/Font.png"
+dest_files=["res://.godot/imported/Font.png-e8c81b0e3eea6e6deb506fc313fa1dab.ctex"]
 
 [params]
 

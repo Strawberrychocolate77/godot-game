@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsif14h8a3wxq"
-path="res://.godot/imported/S_Walk.png-fac2da9f7773df4c3081ea74301fbd61.ctex"
+path="res://.godot/imported/S_Walk.png-b422295b42e752d8a9aae16c736b3096.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/sprite_undead_enemies/1/S_Walk.png"
-dest_files=["res://.godot/imported/S_Walk.png-fac2da9f7773df4c3081ea74301fbd61.ctex"]
+source_file="res://resources/sprites/sprite_undead_enemies/1/S_Walk.png"
+dest_files=["res://.godot/imported/S_Walk.png-b422295b42e752d8a9aae16c736b3096.ctex"]
 
 [params]
 

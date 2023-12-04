@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbxwj3by0qnep"
-path="res://.godot/imported/U_Fly.png-12cd1d731785671041b4f2d3393cff2b.ctex"
+path="res://.godot/imported/U_Fly.png-941ecd8d3e008b916720f2c209aa9f62.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/sprite_undead_enemies/4/U_Fly.png"
-dest_files=["res://.godot/imported/U_Fly.png-12cd1d731785671041b4f2d3393cff2b.ctex"]
+source_file="res://resources/sprites/sprite_undead_enemies/4/U_Fly.png"
+dest_files=["res://.godot/imported/U_Fly.png-941ecd8d3e008b916720f2c209aa9f62.ctex"]
 
 [params]
 
