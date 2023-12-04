@@ -1,6 +1,12 @@
-[gd_scene load_steps=10 format=3 uid="uid://bjjlh24sdcl7b"]
+[gd_scene load_steps=13 format=3 uid="uid://bjjlh24sdcl7b"]
 
+[ext_resource type="Script" path="res://player.gd" id="1_hk0en"]
 [ext_resource type="Texture2D" uid="uid://ddug2puxxu5wn" path="res://sprites/sprite_undead_enemies/skeleton/S_Walk.png" id="1_u62pq"]
+[ext_resource type="Texture2D" uid="uid://bp2r5158xvu5a" path="res://sprites/sprite_undead_enemies/skeleton/D_Walk.png" id="2_e4p4a"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_6dy18"]
+atlas = ExtResource("2_e4p4a")
+region = Rect2(0, 0, 48, 48)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_ktomh"]
 atlas = ExtResource("1_u62pq")
@@ -30,6 +36,14 @@ region = Rect2(240, 0, 48, 40)
 animations = [{
 "frames": [{
 "duration": 1.0,
+"texture": SubResource("AtlasTexture_6dy18")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
 "texture": SubResource("AtlasTexture_ktomh")
 }, {
 "duration": 1.0,
@@ -48,7 +62,7 @@ animations = [{
 "texture": SubResource("AtlasTexture_0dhol")
 }],
 "loop": true,
-"name": &"default",
+"name": &"walk",
 "speed": 5.0
 }]
 
@@ -56,14 +70,16 @@ animations = [{
 height = 32.0
 
 [node name="player" type="CharacterBody2D"]
+scale = Vector2(2, 2)
+script = ExtResource("1_hk0en")
 
 [node name="player_sprite" type="AnimatedSprite2D" parent="."]
+unique_name_in_owner = true
 texture_filter = 1
 position = Vector2(4.5, 3)
 scale = Vector2(1.1875, 1.15)
 sprite_frames = SubResource("SpriteFrames_0yt5q")
-frame = 5
-frame_progress = 0.864797
+animation = &"idle"
 
 [node name="player_hurtbox" type="CollisionShape2D" parent="."]
 position = Vector2(4, 0)
